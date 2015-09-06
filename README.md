@@ -10,5 +10,10 @@ generateProjectFiels.bat and do the extention on there also.
 
 please contribute if you want.
 
-You need UE4 Source code to run this
+You need UE4 Source code to run this.
+
+i dont know what to upload ot git and what not to upload to git so i am uploading
+every thing.
+
+and sorry for my english.
 
