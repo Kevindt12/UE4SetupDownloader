@@ -7,8 +7,8 @@
     <ProjectGuid>{3D3CBA89-9568-41D8-8C01-15BB191A200D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnrealEngine4SourceCodeDownload</RootNamespace>
-    <AssemblyName>UnrealEngine4SourceCodeDownload</AssemblyName>
+    <RootNamespace>UE4SetupInstaler</RootNamespace>
+    <AssemblyName>UE4SetupInstaler</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
