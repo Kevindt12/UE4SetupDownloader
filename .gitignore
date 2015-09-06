@@ -1,0 +1,6 @@
+#########only that######
+
+[Dd]ebug/
+[Rr]elease/
+UE4SetupInstaler\bin
+UE4SetupInstaler/obj/Debug/UE4SetupInstaler.csproj.FileListAbsolute.txt

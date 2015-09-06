@@ -18,3 +18,6 @@ C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Nieuwe map\UE4SetupInst
 C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Nieuwe map\UE4SetupInstalrt\obj\Debug\UnrealEngine4SourceCodeDownload.exe
 C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Nieuwe map\UE4SetupInstalrt\obj\Debug\UnrealEngine4SourceCodeDownload.pdb
 C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Nieuwe map\UE4SetupInstaler\bin\Debug\UnrealEngine4SourceCodeDownload.exe.config
+C:\Users\Gebruiker\Documents\GitHub\UE4SetupDownloader\UE4SetupInstaler\bin\Debug\UE4SetupInstaler.exe.config
+C:\Users\Gebruiker\Documents\GitHub\UE4SetupDownloader\UE4SetupInstaler\obj\Debug\UE4SetupInstaler.exe
+C:\Users\Gebruiker\Documents\GitHub\UE4SetupDownloader\UE4SetupInstaler\obj\Debug\UE4SetupInstaler.pdb
